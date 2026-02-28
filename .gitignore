@@ -1,0 +1,6 @@
+### IntelliJ ###
+.idea
+**/Microservices.postman_collection.json
+accounts/.mvn/
+accounts/mvnw
+accounts/mvnw.cmd
